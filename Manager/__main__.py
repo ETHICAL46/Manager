@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Ꮛ Ꮏ Ꮒ i Ꮳ Ꭿ l](t.me/ETHICAL_OF_TELEGRAM)
+My owner is [AղąAìҟą:Ꮛ Ꮏ Ꮒ i Ꮳ Ꭿ l](t.me/ambrosial_lady)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
